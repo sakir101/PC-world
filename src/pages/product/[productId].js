@@ -415,20 +415,7 @@ ProductDetailPage.getLayout = function getLayout(page) {
   return <RootLayout>{page}</RootLayout>;
 };
 
-export const getStaticPaths = async () => {
-  const res = await fetch(
-    "https://tech-world-server-psi.vercel.app/api/v1/products"
-  );
-  const products = await res.json();
-
-  const paths = products?.data?.map((product) => ({
-    params: { productId: product?._id },
-  }));
-
-  return { paths, fallback: false };
-};
-
-export const getStaticProps = async (context) => {
+export const getServerSideProps = async (context) => {
   const { params } = context;
   const res = await fetch(
     `https://tech-world-server-psi.vercel.app/api/v1/products/${params.productId}`

@@ -37,7 +37,7 @@ HomePage.getLayout = function getLayout(page, allCategories) {
   return <RootLayout allCategories={allCategories}>{page}</RootLayout>;
 };
 
-export const getStaticProps = async () => {
+export const getServerSideProps = async () => {
   const res = await fetch(
     "https://tech-world-server-psi.vercel.app/api/v1/products"
   );
@@ -52,6 +52,5 @@ export const getStaticProps = async () => {
       allProducts: data,
       allCategories: data2,
     },
-    revalidate: 10,
   };
 };
