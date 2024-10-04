@@ -1,4 +1,4 @@
-## Live Site Link: https://tech-world-nu.vercel.app/
+## Live Site Link: https://tech-world-henna.vercel.app/
 ## Server Site Github Link: https://github.com/sakir101/tech-world-server
 ## Server Site Live Link: https://tech-world-server-psi.vercel.app/
 
