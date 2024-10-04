@@ -1,0 +1,17 @@
+.social_icons a{
+  font-size: 28px;
+  margin: 15px 3px;
+ 
+}
+
+.menu_items a{
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.line{
+  height: 5px;
+  margin: 10px 0;
+}

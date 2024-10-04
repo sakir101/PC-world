@@ -1,0 +1,16 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": [
+    "@typescript-eslint",
+    "@typescript-eslint/tslint"
+ ],
+ "rules":{
+  
+    "no-var": "error", // Disallow using var, use let or const instead
+    "prefer-const": "error", // Enforce using const for variables that do not change their value
+    "no-unused-vars": "error" ,
+    "no-unused-expressions": "error",
+    "no-undef": "error"
+  
+}
+}

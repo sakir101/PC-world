@@ -1,0 +1,628 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "productName": "Intel 12th Gen Alder Lake Core i3 12100F Processor",
+            "img": "/images/cpu_1.jpg",
+            "category": "CPU / Processor",
+            "status": "In Stock",
+            "price": "11,200 Tk",
+            "description": "Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64, Idle States, Enhanced Intel SpeedStep Technology.",
+            "feature": [
+                "Core - 4",
+                "CPU Cache - 12MB",
+                "Generation - 12th",
+                "Base Frequency - 3.30GHz",
+                "Processor Type. - Core i3",
+                "Turbo Frequency Max. - 4.30GHz"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "2",
+            "productName": "Intel Alder Lake Pentium Gold G7400 Socket Processor",
+            "img": "/images/cpu_2.jpg",
+            "category": "CPU / Processor",
+            "status": "Out of Stock",
+            "price": "11,700 Tk",
+            "description": "Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64, Idle States, Enhanced Intel SpeedStep Technology.",
+            "feature": [
+                "Processor Type. - Intel Pentium",
+                "Generation - Not Applicable",
+                "Base Frequency - 3.70GHz",
+                "Core - 2",
+                "CPU Cache - 6MB"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "3",
+            "productName": "AMD Ryzen 5 4500 Processor",
+            "img": "/images/cpu_3.jpg",
+            "category": "CPU / Processor",
+            "status": "In Stock",
+            "price": "12,200 Tk",
+            "description": "Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64, Idle States, Enhanced Intel SpeedStep Technology.",
+            "feature": [
+                "Core - 6",
+                "CPU Cache - 11MB",
+                "Generation - Not Applicable",
+                "Base Frequency - 3.60GHz",
+                "Processor Type. - Ryzen 5",
+                "Turbo Frequency Max. - 4.10GHz"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "4",
+            "productName": "Intel 10th Gen Comet Lake Core i5 10400F Desktop Processor (Without GPU)",
+            "img": "/images/cpu_4.jpg",
+            "category": "CPU / Processor",
+            "status": "In Stock",
+            "price": "13,200 Tk",
+            "description": "Intel Gaussian & Neural Accelerator 3.0, Intel Deep Learning Boost (Intel DL Boost), Intel Optane Memory Supported, Intel Speed Shift Technology, Intel Turbo Boost Technology 2.0, Intel Hyper-Threading Technology, Intel Virtualization Technology (VT-x), Intel Virtualization Technology for Directed I/O (VT-d), Intel VT-x with Extended Page Tables (EPT), Intel 64, Idle States, Enhanced Intel SpeedStep Technology.",
+            "feature": [
+                "Core - 4",
+                "CPU Cache - 12MB",
+                "Generation - 12th",
+                "Base Frequency - 3.30GHz",
+                "Processor Type. - Core i3",
+                "Turbo Frequency Max. - 4.30GHz"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "5",
+            "productName": "Twinmos 4GB DDR3 1600 BUS Desktop RAM",
+            "img": "/images/ram_1.jpg",
+            "category": "RAM",
+            "status": "In Stock",
+            "price": "1,540 Tk",
+            "description": "TwinMOS DDR3 UDIMM Supreme is a 240-pin standard design, operating with a voltage of 1.5 and 1.35 volts to achieve both energy and electricity saving and meet environmental protection regulation. Moreover, TwinMOS DDR3 U-DIMM provides various frequency and capacity selections to meet different levels of requirements of consumers in use.",
+            "feature": [
+                "Capacity (GB/TB) - 4GB",
+                "RAM Type - DDR3",
+                "Bus Speed(MHz) - 1600MHz",
+                "Number of Pin - 240 Pin",
+                "RGB Fusion - No"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "6",
+            "productName": "Adata Premier 4GB DDR4 2666MHz Desktop RAM #AD4U2666J4G19-R / AD4U26664G19-RGN",
+            "img": "/images/ram_2.jpg",
+            "category": "RAM",
+            "status": "In Stock",
+            "price": "2,540 Tk",
+            "description": "TwinMOS DDR3 UDIMM Supreme is a 240-pin standard design, operating with a voltage of 1.5 and 1.35 volts to achieve both energy and electricity saving and meet environmental protection regulation. Moreover, TwinMOS DDR3 U-DIMM provides various frequency and capacity selections to meet different levels of requirements of consumers in use.",
+            "feature": [
+                "Capacity (GB/TB) - 4GB",
+                "RAM Type - DDR4",
+                "Bus Speed(MHz) - 2666MHz",
+                "Number of Pin - 288 Pin",
+                "RGB Fusion - No"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "7",
+            "productName": "Twinmos 4GB DDR4 3200MHz U-DIMM Desktop RAM",
+            "img": "/images/ram_3.jpg",
+            "category": "RAM",
+            "status": "Out of Stock",
+            "price": "1,580 Tk",
+            "description": "TwinMOS DDR3 UDIMM Supreme is a 240-pin standard design, operating with a voltage of 1.5 and 1.35 volts to achieve both energy and electricity saving and meet environmental protection regulation. Moreover, TwinMOS DDR3 U-DIMM provides various frequency and capacity selections to meet different levels of requirements of consumers in use.",
+            "feature": [
+                "RAM Type - DDR4",
+                "RGB Fusion - No",
+                "Number of Pin - 288 Pin",
+                "Bus Speed(MHz) - 3200MHz",
+                "Capacity (GB/TB) - 4GB"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "8",
+            "productName": "G.Skill Ripjaws V 4GB DDR4 2400MHz Red Heatsink Desktop RAM",
+            "img": "/images/ram_4.jpg",
+            "category": "RAM",
+            "status": "In Stock",
+            "price": "3,540 Tk",
+            "description": "TwinMOS DDR3 UDIMM Supreme is a 240-pin standard design, operating with a voltage of 1.5 and 1.35 volts to achieve both energy and electricity saving and meet environmental protection regulation. Moreover, TwinMOS DDR3 U-DIMM provides various frequency and capacity selections to meet different levels of requirements of consumers in use.",
+            "feature": [
+                "RAM Type - DDR4",
+                "Bus Speed(MHz) - 1600MHz",
+                "Number of Pin - 240 Pin",
+                "RGB Fusion - No"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "9",
+            "productName": "Value Top VT-S230B Non Modular Real 230W ATX Black Power Supply",
+            "img": "/images/power_1.jpg",
+            "category": "Power Supply Unit",
+            "status": "In Stock",
+            "price": "1,410 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-S230B, PSU Category - Non Modular, Type - ATX, Maximum Power - 230W, Input AC - 100V-240 VAC, Input Voltage - 100V-240V, Fan Size - 120mm, Lighting Effect - No, Lighting Type - No, Efficiency - Unmentioned, 80 Plus/Efficiency Rating - Unmentioned, Over Voltage Protection (OVP) - Unmentioned, Over Power Protection (OPP) - Unmentioned, Over Temperature Protection (OTP) - Unmentioned, Short Circuit Protection (SCP) - Unmentioned, Under Voltage Protection (UVP) - Unmentioned, SATA Power Connectors - 3, Cable Type - 1.2m UK power cord, Form Factor - ATX, Color - Black, Others - 1 x IDE connector, 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "PSU Category - Non Modular",
+                "Type - ATX",
+                "Maximum Power - 230 Watt",
+                "Efficiency - Unmentioned",
+                "Efficiency Rating - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "10",
+            "productName": "Value Top VT-AX350B 350 Watt ATX Non Modular Power Supply",
+            "img": "/images/power_2.jpg",
+            "category": "Power Supply Unit",
+            "status": "Out of Stock",
+            "price": "1,510 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-S230B, PSU Category - Non Modular, Type - ATX, Maximum Power - 230W, Input AC - 100V-240 VAC, Input Voltage - 100V-240V, Fan Size - 120mm, Lighting Effect - No, Lighting Type - No, Efficiency - Unmentioned, 80 Plus/Efficiency Rating - Unmentioned, Over Voltage Protection (OVP) - Unmentioned, Over Power Protection (OPP) - Unmentioned, Over Temperature Protection (OTP) - Unmentioned, Short Circuit Protection (SCP) - Unmentioned, Under Voltage Protection (UVP) - Unmentioned, SATA Power Connectors - 3, Cable Type - 1.2m UK power cord, Form Factor - ATX, Color - Black, Others - 1 x IDE connector, 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "PSU Category - Non Modular",
+                "Type - ATX",
+                "Maximum Power - 230 Watt",
+                "Efficiency - Unmentioned",
+                "Efficiency Rating - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "11",
+            "productName": "Safeway Rotanium 80S-550W 550W ATX Non Modular Power Supply",
+            "img": "/images/power_3.jpg",
+            "category": "Power Supply Unit",
+            "status": "In Stock",
+            "price": "1,220 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-S230B, PSU Category - Non Modular, Type - ATX, Maximum Power - 230W, Input AC - 100V-240 VAC, Input Voltage - 100V-240V, Fan Size - 120mm, Lighting Effect - No, Lighting Type - No, Efficiency - Unmentioned, 80 Plus/Efficiency Rating - Unmentioned, Over Voltage Protection (OVP) - Unmentioned, Over Power Protection (OPP) - Unmentioned, Over Temperature Protection (OTP) - Unmentioned, Short Circuit Protection (SCP) - Unmentioned, Under Voltage Protection (UVP) - Unmentioned, SATA Power Connectors - 3, Cable Type - 1.2m UK power cord, Form Factor - ATX, Color - Black, Others - 1 x IDE connector, 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "PSU Category - Non Modular",
+                "Type - ATX",
+                "Maximum Power - 230 Watt",
+                "Efficiency - Unmentioned",
+                "Efficiency Rating - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "12",
+            "productName": "Montech BETA 550 550W Non Modular Power Supply",
+            "img": "/images/power_4.jpg",
+            "category": "Power Supply Unit",
+            "status": "In Stock",
+            "price": "1,410 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-S230B, PSU Category - Non Modular, Type - ATX, Maximum Power - 230W, Input AC - 100V-240 VAC, Input Voltage - 100V-240V, Fan Size - 120mm, Lighting Effect - No, Lighting Type - No, Efficiency - Unmentioned, 80 Plus/Efficiency Rating - Unmentioned, Over Voltage Protection (OVP) - Unmentioned, Over Power Protection (OPP) - Unmentioned, Over Temperature Protection (OTP) - Unmentioned, Short Circuit Protection (SCP) - Unmentioned, Under Voltage Protection (UVP) - Unmentioned, SATA Power Connectors - 3, Cable Type - 1.2m UK power cord, Form Factor - ATX, Color - Black, Others - 1 x IDE connector, 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "PSU Category - Non Modular",
+                "Type - ATX",
+                "Maximum Power - 230 Watt",
+                "Efficiency - Unmentioned",
+                "Efficiency Rating - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "13",
+            "productName": "Biostar H310MHP DDR4 Motherboard",
+            "img": "/images/motherBoard_1.jpg",
+            "category": "Motherboard",
+            "status": "In Stock",
+            "price": "7,490 Tk",
+            "description": "Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+            "feature": [
+                "Chipset - Intel H310",
+                "Generation - 8th/9th",
+                "Memory Max. - 32GB",
+                "Memory Slot - 2",
+                "Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors",
+                "Sockets Supported - LGA1151"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "14",
+            "productName": "Gigabyte GA-J1800M-D3P Built In 2.41GHz DDR3 Celeron Processor+Motherboard (Combo)",
+            "img": "/images/motherBoard_2.jpg",
+            "category": "Motherboard",
+            "status": "In Stock",
+            "price": "6,500 Tk",
+            "description": "Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+            "feature": [
+                "Chipset - Intel H310",
+                "Generation - 8th/9th",
+                "Memory Max. - 32GB",
+                "Memory Slot - 2",
+                "Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors",
+                "Sockets Supported - LGA1151"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "15",
+            "productName": "Biostar A520MH DDR4 AMD AM4 Socket Motherboard",
+            "img": "/images/motherBoard_3.jpg",
+            "category": "Motherboard",
+            "status": "In Stock",
+            "price": "8,200 Tk",
+            "description": "Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+            "feature": [
+                "Chipset - Intel H310",
+                "Generation - 8th/9th",
+                "Memory Max. - 32GB",
+                "Memory Slot - 2",
+                "Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors",
+                "Sockets Supported - LGA1151"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "16",
+            "productName": "Biostar B550MH DDR4 AMD AM4 Socket Motherboard",
+            "img": "/images/motherBoard_4.jpg",
+            "category": "Motherboard",
+            "status": "In Stock",
+            "price": "8,400 Tk",
+            "description": "Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+            "feature": [
+                "Chipset - Intel H310",
+                "Generation - 8th/9th",
+                "Memory Max. - 32GB",
+                "Memory Slot - 2",
+                "Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors",
+                "Sockets Supported - LGA1151"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "17",
+            "productName": "Toshiba 1TB 7200RPM Desktop Hard disk #DT01ACA100/HDWD110UZSVA/HDWD110AZSTA",
+            "img": "/images/hdd_1.jpg",
+            "category": "Storage Device",
+            "status": "Out of Stock",
+            "price": "4,400 Tk",
+            "description": "EMEA Region, Toshiba Storage Solutions – The 3.5-inch P300 Desktop PC Hard Drive delivers a high performance for professionals. With its dual-stage actuator, you can count on smooth, responsive computing. What’s more, your data and media is secured with a ramp loading design, as well as a shock sensor. The P300 is available in capacities up to 6 TB.",
+            "feature": [
+                "Type - Desktop HDD",
+                "Storage - 1TB",
+                "Form Factor (Inch) - 3.5 Inch",
+                "Interface(s) - SATA 6Gb/s",
+                "RPM - 7200 RPM",
+                "Data Transfer Rates - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "18",
+            "productName": "Seagate Barracuda 7200RPM 1TB Desktop Hard disk #ST1000DM010",
+            "img": "/images/hdd_2.jpg",
+            "category": "Storage Device",
+            "status": "In Stock",
+            "price": "4,500 Tk",
+            "description": "EMEA Region, Toshiba Storage Solutions – The 3.5-inch P300 Desktop PC Hard Drive delivers a high performance for professionals. With its dual-stage actuator, you can count on smooth, responsive computing. What’s more, your data and media is secured with a ramp loading design, as well as a shock sensor. The P300 is available in capacities up to 6 TB.",
+            "feature": [
+                "RPM - 7200 RPM",
+                "Type - Desktop HDD",
+                "Storage - 1TB",
+                "Interface(s) - SATA 6Gb/s",
+                "Form Factor (Inch) - 3.5 Inch",
+                "Data Transfer Rates - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "19",
+            "productName": "Toshiba P300 2TB 3.5 Inch SATA 7200RPM Desktop HDD #HDWD320UZSVA",
+            "img": "/images/hdd_3.jpg",
+            "category": "Storage Device",
+            "status": "In Stock",
+            "price": "4,400 Tk",
+            "description": "EMEA Region, Toshiba Storage Solutions – The 3.5-inch P300 Desktop PC Hard Drive delivers a high performance for professionals. With its dual-stage actuator, you can count on smooth, responsive computing. What’s more, your data and media is secured with a ramp loading design, as well as a shock sensor. The P300 is available in capacities up to 6 TB.",
+            "feature": [
+                "Type - Desktop HDD",
+                "Storage - 1TB",
+                "Form Factor (Inch) - 3.5 Inch",
+                "Interface(s) - SATA 6Gb/s",
+                "RPM - 7200 RPM",
+                "Data Transfer Rates - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "20",
+            "productName": "Seagate SKYHAWK 2TB 3.5 Inch SATA 5900RPM Surveillance HDD #ST2000VX015 (3 Year Warranty)",
+            "img": "/images/hdd_1.jpg",
+            "category": "Storage Device",
+            "status": "In Stock",
+            "price": "4,200 Tk",
+            "description": "EMEA Region, Toshiba Storage Solutions – The 3.5-inch P300 Desktop PC Hard Drive delivers a high performance for professionals. With its dual-stage actuator, you can count on smooth, responsive computing. What’s more, your data and media is secured with a ramp loading design, as well as a shock sensor. The P300 is available in capacities up to 6 TB.",
+            "feature": [
+                "RPM - 7200 RPM",
+                "Type - Desktop HDD",
+                "Storage - 1TB",
+                "Interface(s) - SATA 6Gb/s",
+                "Form Factor (Inch) - 3.5 Inch",
+                "Data Transfer Rates - Unmentioned"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "21",
+            "productName": "Acer K202HQL 19.5 Inch HD TN LED HDMI VGA Monitor #UM.IX3SS.A07 / UM.IX2SS.A01",
+            "img": "/images/monitor_1.jpg",
+            "category": "Monitor",
+            "status": "In Stock",
+            "price": "8,000 Tk",
+            "description": "Brand - Acer, Model - Acer K202HQL, Series - Regular, Shape - Widescreen, Display Size (Inch) - 19.5 Inch, Display Type - FHD LED Display, Panel Type - TN, Panel Surface - Flat, Touch Screen - No, Display Resolution - 1366 x 768, Maximum Brightness (cd/m2) - 200cd/m2, Contrast Ratio - 100000000:1, Refresh Rate (Hz) - 60Hz, Response Time (ms) - 5ms, Horizontal Viewing Angle - 90 &amp; 65 degree (H &amp; V), VGA Port - 1, HDMI Port - 1, Tilt Adjustment - - 5 degree  - + 25 degree, VESA Wall Mount Standard - 100 x 100mm, Body Color - Black, Others - Viewing Angle: 90 (H), 65 (V), Part No - UM.IX3SS.A07 / UM.IX2SS.A01, Warranty - 3 year, Country of Origin - Taiwan, Made in/ Assemble - China",
+            "feature": [
+                "DVI Port - No",
+                "VGA Port - 1",
+                "HDMI Port - 1",
+                "Display Resolution - 1360x768",
+                "Response Time (ms) - 5ms",
+                "Display Size (Inch) - 19.5"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "22",
+            "productName": "Xiaomi Redmi 21.45 Inch FHD VA Black Professional Monitor",
+            "img": "/images/monitor_2.jpg",
+            "category": "Monitor",
+            "status": "In Stock",
+            "price": "8,900 Tk",
+            "description": "Brand - Acer, Model - Acer K202HQL, Series - Regular, Shape - Widescreen, Display Size (Inch) - 19.5 Inch, Display Type - FHD LED Display, Panel Type - TN, Panel Surface - Flat, Touch Screen - No, Display Resolution - 1366 x 768, Maximum Brightness (cd/m2) - 200cd/m2, Contrast Ratio - 100000000:1, Refresh Rate (Hz) - 60Hz, Response Time (ms) - 5ms, Horizontal Viewing Angle - 90 &amp; 65 degree (H &amp; V), VGA Port - 1, HDMI Port - 1, Tilt Adjustment - - 5 degree  - + 25 degree, VESA Wall Mount Standard - 100 x 100mm, Body Color - Black, Others - Viewing Angle: 90 (H), 65 (V), Part No - UM.IX3SS.A07 / UM.IX2SS.A01, Warranty - 3 year, Country of Origin - Taiwan, Made in/ Assemble - China",
+            "feature": [
+                "DVI Port - No",
+                "VGA Port - 1",
+                "HDMI Port - 1",
+                "Display Resolution - 1360x768",
+                "Response Time (ms) - 5ms",
+                "Display Size (Inch) - 21.45"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "23",
+            "productName": "HP P204v 19.5 Inch HD+ LED HDMI, VGA Monitor #5RD66AA",
+            "img": "/images/monitor_3.jpg",
+            "category": "Monitor",
+            "status": "Out of Stock",
+            "price": "9,000 Tk",
+            "description": "Brand - Acer, Model - Acer K202HQL, Series - Regular, Shape - Widescreen, Display Size (Inch) - 19.5 Inch, Display Type - FHD LED Display, Panel Type - TN, Panel Surface - Flat, Touch Screen - No, Display Resolution - 1366 x 768, Maximum Brightness (cd/m2) - 200cd/m2, Contrast Ratio - 100000000:1, Refresh Rate (Hz) - 60Hz, Response Time (ms) - 5ms, Horizontal Viewing Angle - 90 &amp; 65 degree (H &amp; V), VGA Port - 1, HDMI Port - 1, Tilt Adjustment - - 5 degree  - + 25 degree, VESA Wall Mount Standard - 100 x 100mm, Body Color - Black, Others - Viewing Angle: 90 (H), 65 (V), Part No - UM.IX3SS.A07 / UM.IX2SS.A01, Warranty - 3 year, Country of Origin - Taiwan, Made in/ Assemble - China",
+            "feature": [
+                "DVI Port - No",
+                "VGA Port - 1",
+                "HDMI Port - 1",
+                "Display Resolution - 1360x768",
+                "Response Time (ms) - 5ms",
+                "Display Size (Inch) - 19.5"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "24",
+            "productName": "HP V20 19.5 Inch HD+ VGA HDMI LED Monitor",
+            "img": "/images/monitor_4.jpg",
+            "category": "Monitor",
+            "status": "In Stock",
+            "price": "8,000 Tk",
+            "description": "Brand - Acer, Model - Acer K202HQL, Series - Regular, Shape - Widescreen, Display Size (Inch) - 19.5 Inch, Display Type - FHD LED Display, Panel Type - TN, Panel Surface - Flat, Touch Screen - No, Display Resolution - 1366 x 768, Maximum Brightness (cd/m2) - 200cd/m2, Contrast Ratio - 100000000:1, Refresh Rate (Hz) - 60Hz, Response Time (ms) - 5ms, Horizontal Viewing Angle - 90 &amp; 65 degree (H &amp; V), VGA Port - 1, HDMI Port - 1, Tilt Adjustment - - 5 degree  - + 25 degree, VESA Wall Mount Standard - 100 x 100mm, Body Color - Black, Others - Viewing Angle: 90 (H), 65 (V), Part No - UM.IX3SS.A07 / UM.IX2SS.A01, Warranty - 3 year, Country of Origin - Taiwan, Made in/ Assemble - China",
+            "feature": [
+                "DVI Port - No",
+                "VGA Port - 1",
+                "HDMI Port - 1",
+                "Display Resolution - 1360x768",
+                "Response Time (ms) - 5ms",
+                "Display Size (Inch) - 19.5"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "25",
+            "productName": "Havit KB376 USB Black Keyboard",
+            "img": "/images/keyboard_1.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "560 Tk",
+            "description": "Brand - Havit, Model - Havit KB376, Series - Regular, Style & Size - Regular Big, Type - USB Keyboard, Connection Type - Wired, Interface - USB, Language (English) - Yes, Language - English & Bangla, Language (Bangla) - Yes, Lighting - No, Fingerprint Sensor - No, Mechanical (Key) - No, Combo Package - Keyboard only, Number of Button - 104, Mode - Single, Battery Included - No, Battery Type - No, Battery Qty - No, Battery Size - No, Dimensions (WxHxD) - 445 x 140 x 26mm, Weight - 395 gm, Cable Length - 1.4 Meter, Compatibility - Windows, Mac Supported PC & Laptop, OS Support - Windows 7, 8, Vista, XP, Mac OS X 10.4, Or Later, Color - Black, Others - Key Life: 8,000,000 times, Operating Voltage: 5V., Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "Type - USB Keyboard",
+                "Interface - USB",
+                "Lighting - No",
+                "Mechanical (Key) - No",
+                "Combo Package - Keyboard only"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "26",
+            "productName": "Fantech K-210 USB Wired Multimedia Office Keyboard",
+            "img": "/images/keyboard_2.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "760 Tk",
+            "description": "Brand - Havit, Model - Havit KB376, Series - Regular, Style & Size - Regular Big, Type - USB Keyboard, Connection Type - Wired, Interface - USB, Language (English) - Yes, Language - English & Bangla, Language (Bangla) - Yes, Lighting - No, Fingerprint Sensor - No, Mechanical (Key) - No, Combo Package - Keyboard only, Number of Button - 104, Mode - Single, Battery Included - No, Battery Type - No, Battery Qty - No, Battery Size - No, Dimensions (WxHxD) - 445 x 140 x 26mm, Weight - 395 gm, Cable Length - 1.4 Meter, Compatibility - Windows, Mac Supported PC & Laptop, OS Support - Windows 7, 8, Vista, XP, Mac OS X 10.4, Or Later, Color - Black, Others - Key Life: 8,000,000 times, Operating Voltage: 5V., Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "Type - USB Keyboard",
+                "Interface - USB",
+                "Lighting - No",
+                "Mechanical (Key) - No",
+                "Combo Package - Keyboard only"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "27",
+            "productName": "Havit KB327 Black USB Multimedia Keyboard with Bangla",
+            "img": "/images/keyboard_3.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "800 Tk",
+            "description": "Brand - Havit, Model - Havit KB376, Series - Regular, Style & Size - Regular Big, Type - USB Keyboard, Connection Type - Wired, Interface - USB, Language (English) - Yes, Language - English & Bangla, Language (Bangla) - Yes, Lighting - No, Fingerprint Sensor - No, Mechanical (Key) - No, Combo Package - Keyboard only, Number of Button - 104, Mode - Single, Battery Included - No, Battery Type - No, Battery Qty - No, Battery Size - No, Dimensions (WxHxD) - 445 x 140 x 26mm, Weight - 395 gm, Cable Length - 1.4 Meter, Compatibility - Windows, Mac Supported PC & Laptop, OS Support - Windows 7, 8, Vista, XP, Mac OS X 10.4, Or Later, Color - Black, Others - Key Life: 8,000,000 times, Operating Voltage: 5V., Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "Type - USB Keyboard",
+                "Interface - USB",
+                "Lighting - No",
+                "Mechanical (Key) - No",
+                "Combo Package - Keyboard only"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "28",
+            "productName": "Micropack K2208 Black USB Mini Keyboard with Bangla",
+            "img": "/images/keyboard_4.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "560 Tk",
+            "description": "Brand - Havit, Model - Havit KB376, Series - Regular, Style & Size - Regular Big, Type - USB Keyboard, Connection Type - Wired, Interface - USB, Language (English) - Yes, Language - English & Bangla, Language (Bangla) - Yes, Lighting - No, Fingerprint Sensor - No, Mechanical (Key) - No, Combo Package - Keyboard only, Number of Button - 104, Mode - Single, Battery Included - No, Battery Type - No, Battery Qty - No, Battery Size - No, Dimensions (WxHxD) - 445 x 140 x 26mm, Weight - 395 gm, Cable Length - 1.4 Meter, Compatibility - Windows, Mac Supported PC & Laptop, OS Support - Windows 7, 8, Vista, XP, Mac OS X 10.4, Or Later, Color - Black, Others - Key Life: 8,000,000 times, Operating Voltage: 5V., Warranty - 1 Year, Country of Origin - China, Made in/ Assemble - China",
+            "feature": [
+                "Type - USB Keyboard",
+                "Interface - USB",
+                "Lighting - No",
+                "Mechanical (Key) - No",
+                "Combo Package - Keyboard only"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "29",
+            "productName": "Value Top VT-CL2800 Air CPU Cooler",
+            "img": "/images/cooler_1.jpg",
+            "category": "Others",
+            "status": "Out of Stock",
+            "price": "800 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-CL2800, Cooler Type - Air CPU Cooler, Series - VT, Bearing Type - Not Specified, Number of Fans - 1, Fan Size (Height) - 80mm, Fan Speed - 1500 RPM, Fan Noise Level - Not Specified, Fan Air Flow - Not Specified, Fan Air Pressure - Not Specified, Fan Power Connector - 3 pin, Fan Rated Current - Not Specified, Fan Rated Voltage - Not Specified, Fan Dimensions - Not Specified, Heat Sink Material - Not Specified, Radiator Material - Not Specified, Dimension (Heat Sink/Radiator) - Not Specified, Heat Sink Weight - Not Specified, Water Block Material - Not Specified, Waterblock Dimensions - Not Specified, Heat Pipe Dimensions",
+            "feature": [
+                "Fan Speed - 1500 RPM",
+                "LED Color - No",
+                "Cooler Type - Air CPU Cooler",
+                "Supported Socket - INTEL LGA115X/ LGA775 / LGA1700 and AMD FM2/ FM1/ AM3+/ AM3/ AM2+/ AM2/ AM4/ 940/ 939/ 754",
+                "Fan Size (Height) - 80mm"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "30",
+            "productName": "Deepcool ALTA 9 Air CPU Cooler",
+            "img": "/images/cooler_2.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "475 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-CL2800, Cooler Type - Air CPU Cooler, Series - VT, Bearing Type - Not Specified, Number of Fans - 1, Fan Size (Height) - 80mm, Fan Speed - 1500 RPM, Fan Noise Level - Not Specified, Fan Air Flow - Not Specified, Fan Air Pressure - Not Specified, Fan Power Connector - 3 pin, Fan Rated Current - Not Specified, Fan Rated Voltage - Not Specified, Fan Dimensions - Not Specified, Heat Sink Material - Not Specified, Radiator Material - Not Specified, Dimension (Heat Sink/Radiator) - Not Specified, Heat Sink Weight - Not Specified, Water Block Material - Not Specified, Waterblock Dimensions - Not Specified, Heat Pipe Dimensions",
+            "feature": [
+                "Fan Speed - 2200 RPM",
+                "LED Color - No",
+                "Cooler Type - Air CPU Cooler",
+                "Supported Socket - INTEL LGA115X/ LGA775 / LGA1700 and AMD FM2/ FM1/ AM3+/ AM3/ AM2+/ AM2/ AM4/ 940/ 939/ 754",
+                "Fan Size (Height) - 80mm"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "31",
+            "productName": "Deepcool ICE EDGE MINI FS V2.0 Air CPU Cooler #DP-MCH2-IEMV2",
+            "img": "/images/cooler_3.jpg",
+            "category": "Others",
+            "status": "In Stock",
+            "price": "900 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-CL2800, Cooler Type - Air CPU Cooler, Series - VT, Bearing Type - Not Specified, Number of Fans - 1, Fan Size (Height) - 80mm, Fan Speed - 1500 RPM, Fan Noise Level - Not Specified, Fan Air Flow - Not Specified, Fan Air Pressure - Not Specified, Fan Power Connector - 3 pin, Fan Rated Current - Not Specified, Fan Rated Voltage - Not Specified, Fan Dimensions - Not Specified, Heat Sink Material - Not Specified, Radiator Material - Not Specified, Dimension (Heat Sink/Radiator) - Not Specified, Heat Sink Weight - Not Specified, Water Block Material - Not Specified, Waterblock Dimensions - Not Specified, Heat Pipe Dimensions",
+            "feature": [
+                "Fan Speed - 2200 RPM",
+                "LED Color - No",
+                "Cooler Type - Air CPU Cooler",
+                "Supported Socket - INTEL LGA115X/ LGA775 / LGA1700 and AMD FM2/ FM1/ AM3+/ AM3/ AM2+/ AM2/ AM4/ 940/ 939/ 754",
+                "Fan Size (Height) - 80mm"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        },
+        {
+            "id": "32",
+            "productName": "Value Top VT-CL2903A RGB Air CPU Cooler",
+            "img": "/images/cooler_4.jpg",
+            "category": "Others",
+            "status": "Out of Stock",
+            "price": "1000 Tk",
+            "description": "Brand - Value Top, Model - Value Top VT-CL2800, Cooler Type - Air CPU Cooler, Series - VT, Bearing Type - Not Specified, Number of Fans - 1, Fan Size (Height) - 80mm, Fan Speed - 1500 RPM, Fan Noise Level - Not Specified, Fan Air Flow - Not Specified, Fan Air Pressure - Not Specified, Fan Power Connector - 3 pin, Fan Rated Current - Not Specified, Fan Rated Voltage - Not Specified, Fan Dimensions - Not Specified, Heat Sink Material - Not Specified, Radiator Material - Not Specified, Dimension (Heat Sink/Radiator) - Not Specified, Heat Sink Weight - Not Specified, Water Block Material - Not Specified, Waterblock Dimensions - Not Specified, Heat Pipe Dimensions",
+            "feature": [
+                "Fan Speed - 1500 RPM",
+                "LED Color - No",
+                "Cooler Type - Air CPU Cooler",
+                "Supported Socket - INTEL LGA115X/ LGA775 / LGA1700 and AMD FM2/ FM1/ AM3+/ AM3/ AM2+/ AM2/ AM4/ 940/ 939/ 754",
+                "Fan Size (Height) - 80mm"
+            ],
+            "rating": [],
+            "avgRating": 0,
+            "reviews": []
+        }
+        
+    ]
+}
+

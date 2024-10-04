@@ -1,0 +1,41 @@
+{
+  "name": "tech-world",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "json-server": "json-server --watch db.json --port 5000",
+    "lint": "next lint",
+    "lint:check": "eslint --ignore-path .eslintignore --ext .js,.ts ."
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/eslint-plugin-tslint": "^6.2.0",
+    "antd": "^5.7.3",
+    "axios": "^1.7.7",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "firebase": "^10.1.0",
+    "json-server": "^0.17.3",
+    "next": "13.4.12",
+    "next-auth": "^4.22.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-hook-form": "^7.45.2",
+    "react-hot-toast": "^2.4.1",
+    "react-redux": "^8.1.2",
+    "redux-logger": "^3.0.6",
+    "sharp": "^0.33.5"
+  },
+  "devDependencies": {
+    "@types/redux-logger": "^3.0.9",
+    "autoprefixer": "^10.4.14",
+    "daisyui": "^3.5.0",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
+}
